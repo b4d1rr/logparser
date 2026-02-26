@@ -1,9 +1,4 @@
-PL202 — Week 4: Log Line Parser
-
-This project implements a safe and reliable log line parser using Python.
-It processes individual log lines, lists, and entire files, reports invalid formats, and exports valid parsed entries to JSON.
-
-📌 Project Overview
+# LogParser
 
 Cloud operations teams receive messy log files.
 Your task is to safely parse each log line into four fields:
